@@ -10,10 +10,10 @@ Poche righe di codice, scritte in R, per condurre un'analisi di variabilità del
 * I risultati del punto precedente (ad es. varianza delle mediane) rende conto della variabilità di quella feature cross-scenario. Per cui, risponde alla domanda "La feature quanto è infleunzata dalla modifica di scenario?"
 
 ## Requisiti
-* R (si consiglia RStudio)
+* R (si consiglia RStudio).
   
 ## Installazione
-* Clona il repository
+* Clona il repository.
 * Inserire nella directory data/combined i file CSV dei flussi. Li ho denominati combined in quanto aggregano train, test e validation (es. TRAIN0 + VAL0 + TEST0 = COMBINED0).
-* Correggi i path nel codice
-* Apri il main ed esegui
+* Correggi i path nel codice.
+* Apri il main ed esegui.
