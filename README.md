@@ -10,7 +10,7 @@ Poche righe di codice, scritte in R, per condurre un'analisi di variabilità del
 * I risultati del punto precedente (ad es. varianza delle mediane) rende conto della variabilità di quella feature cross-scenario. Per cui, risponde alla domanda "La feature quanto è infleunzata dalla modifica di scenario?"
 
 ## Requisiti
-* R (si consiglia RStudio).
+* R (RStudio).
   
 ## Installazione
 * Clona il repository.
